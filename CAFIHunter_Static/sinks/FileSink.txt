@@ -1,0 +1,11 @@
+<android.content.ContentResolver: java.io.InputStream openInputStream(android.net.Uri)>
+<android.content.ContentResolver: java.io.InputStream openInputStream(android.net.Uri,java.io.FileDescriptor)>
+<android.content.ContentResolver: android.os.ParcelFileDescriptor openFileDescriptor(android.net.Uri,java.lang.String)>
+<android.content.ContentResolver: android.os.ParcelFileDescriptor openFileDescriptor(android.net.Uri,java.lang.String,android.os.CancellationSignal)>
+<android.content.ContentResolver: android.content.res.AssetFileDescriptor openAssetFileDescriptor(android.net.Uri,java.lang.String)>
+<android.content.ContentResolver: android.content.res.AssetFileDescriptor openAssetFileDescriptor(android.net.Uri,java.lang.String,android.os.CancellationSignal)>
+<android.content.ContentResolver: android.database.Cursor query(android.net.Uri)>
+<android.content.ContentResolver: android.database.Cursor query(android.net.Uri,java.lang.String[])>
+<android.content.ContentResolver: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)>
+<android.content.ContentResolver: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,android.os.CancellationSignal)>
+<android.content.ContentResolver: android.database.Cursor query(android.net.Uri,java.lang.String[],android.os.Bundle,android.os.CancellationSignal)>

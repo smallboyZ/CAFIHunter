@@ -1,0 +1,4 @@
+frida==16.6.6
+uiautomator2==3.7.0
+androguard==4.1.4
+greenlet==3.1.1
